@@ -2,7 +2,7 @@
 
 - Sophomore in SUSTech
 - You can find my vscode/zed settings in [dotfile](https://github.com/Jerome-Yao/dotfile), which include vim mode keybindings in LazyVim style.
-- I'm currently working on [MIT 6.S081](https://jeromes-company.gitbook.io/mit-6-s081/lec01-introduction-and-examples/1.10-io-redirect).
+- I'm currently working on [sustcore](https://github.com/sustcore-team/sustcore).
 <!--
 **Jerome-Yao/Jerome-Yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
